@@ -1,4 +1,6 @@
-![logo](https://raw.githubusercontent.com/PrashantX02/PrashantX02/main/Black%20and%20White%20Modern%20Geometric%20Animation%20Youtube%20Channel%20Intro%20.gif)
+<p align = "center">
+<img src="https://raw.githubusercontent.com/PrashantX02/PrashantX02/main/Black%20and%20White%20Modern%20Geometric%20Animation%20Youtube%20Channel%20Intro%20.gif" alt="logo" height="350" >
+</p>
 
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate Application developer from India</h3>

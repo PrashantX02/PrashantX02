@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/pain-six-paths-from-naruto.jpg" alt="logo" height="350" >
+<img src="pain-six-paths-from-naruto.avif" alt="logo" height="350" >
 </p>
 
 <h1 align="center">P a i n ❟❛❟</h1>

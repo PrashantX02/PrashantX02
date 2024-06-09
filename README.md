@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-<img align = "right" alt = "android" width="400" src = "https://media.giphy.com/media/13evKUTDz5dRe0/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantx02&label=Profile%20views&color=0e75b6&style=flat" alt="prashantx02" /> </p>
 

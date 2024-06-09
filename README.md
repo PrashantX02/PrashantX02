@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://raw.githubusercontent.com/PrashantX02/PrashantX02/main/Black%20and%20White%20Modern%20Geometric%20Animation%20Youtube%20Channel%20Intro%20.gif" alt="logo" height="350" >
+<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/pain-six-paths-from-naruto.jpg" alt="logo" height="350" >
 </p>
 
 <h1 align="center">P a i n ❟❛❟</h1>

@@ -1,8 +1,4 @@
-<p align = "center">
-<img src="pain-six-paths-from-naruto.avif" alt="logo" height="350" >
-</p>
 
-<h1 align="center">P a i n ❟❛❟</h1>
 <h3 align="center">A Application developer from Hidden Rain</h3>
 
 
@@ -12,7 +8,7 @@
 
 - 💬 Ask me about **Java and Kotlin**
 
-- 📫 How to reach me **www.dkprashant04@gmail.com**
+- 📫 email **www.dkprashant04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=prashantx02&label=Souls%20Claimed&color=red&style=flat" alt="prashantx02" />
 </p>
 
-<h1 align="center" style="color: red; font-family: 'Creepster', cursive;">
-  ☠️ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝐁𝐋𝐎𝐎𝐃𝐒𝐇𝐄𝐃 ☠️
-</h1>
+<p align="center">
+  <img src = "welcome to The Blood Shed.png" />
+</p>
 
 <blockquote>
   <h3 align="center" style="color: red;">"The Abyss beckons... dare you embrace the malevolence?" 🩸</h3>

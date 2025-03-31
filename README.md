@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="449.jpg" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prashantx02&label=Souls%20Claimed&color=red&style=flat" alt="prashantx02" />

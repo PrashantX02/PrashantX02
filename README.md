@@ -20,7 +20,7 @@
 
 ## 🩸 <span style="color: red;">𝐄𝐧𝐭𝐞𝐫 𝐈𝐟 𝐘𝐨𝐮 𝐃𝐚𝐫𝐞:</span>
 <p align="left">
-  <a href="https://linkedin.com/in/prashant-kumar" target="blank">
+  <a href="https://www.linkedin.com/in/prashant-kumar-42a508244" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant kumar" height="30" width="40" style="filter: invert(12%) sepia(97%) saturate(7500%) hue-rotate(360deg) brightness(100%) contrast(100%);"/>
   </a>
   <a href="https://www.leetcode.com/knight_commander" target="blank">

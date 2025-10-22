@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/PrashantX02/PrashantX02/blob/main/Android%20Expanded%20-%201%20(11).png" alt="Bloody Themed Banner" />
-</p>
+
 
 <table align="center">
   <tr>
